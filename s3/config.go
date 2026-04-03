@@ -1,4 +1,4 @@
-package s3v2
+package s3
 
 import (
 	"context"
